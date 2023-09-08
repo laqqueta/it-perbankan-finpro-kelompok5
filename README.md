@@ -2,7 +2,8 @@
 - https://digitalent.kominfo.go.id/
 - https://www.rakamin.com/
 
-
+# Link Repository
+https://github.com/laqqueta/it-perbankan-finpro-kelompok5/tree/main
 
 ## Kelompok 5
 
