@@ -7,6 +7,7 @@
 ## Kelompok 5
 
 - [@Zubaid](https://github.com/laqqueta)
+- [@Mulyana](https://github.com/mulyanan26)
 - ...
 - dst...
 
